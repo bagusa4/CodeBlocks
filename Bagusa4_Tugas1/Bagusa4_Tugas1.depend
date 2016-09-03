@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1472943177 source:d:\workspaces\codeblocks\bagusa4_tugas1\main.c
+	<stdio.h>
+	<stdlib.h>
+

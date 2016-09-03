@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1470870338 source:d:\workspaces\codeblocks\bagusa4\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<algorithm>
+	<array>
+
