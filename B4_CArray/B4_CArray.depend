@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1478018297 source:d:\workspaces\codeblocks\b4_carray\main.c
+	<stdio.h>
+	<stdlib.h>
+
